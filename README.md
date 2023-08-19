@@ -2,9 +2,11 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Getting Started
 
-First, run the development server:
+First, do cd location
+second, run the development server:
 
 ```bash
+cd location
 pnpm dev
 # or
 npm run dev
