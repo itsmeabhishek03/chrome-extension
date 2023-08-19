@@ -11,3 +11,4 @@ pnpm dev
 # or
 npm run dev
 ```
+##video link - https://youtu.be/hqu8GNZ0Ukw
